@@ -30,7 +30,7 @@ pip install pandas scikit-learn numpy
 📌 ResultsExample Predictions:MessagePredictionConfidence (Spam Probability)Hi, are we meeting today?Not Spam0.12Click to win a free cruise!Spam0.87Reminder: your class starts at 10 AMNot Spam0.15Congratulations, you've won a lottery!Spam0.95
 
 🧪 How to RunClone this repository:
-git clone https://github.com/your-username/spam-detection.gitNavigate to the directory:
+git clone https://github.com/bolagam-mythri/spam-detection.gitNavigate to the directory:
 cd spam-detectionOpen the notebook in Jupyter or Colab:
 jupyter notebook spam_detection.ipynbRun all cells to train the model and test predictions.
 
