@@ -1,4 +1,6 @@
 📄 SMS Spam Detection with Logistic Regression
+
+
 🚀 OverviewThis project focuses on building a machine learning model to classify SMS messages as Spam or Not Spam. Using text preprocessing, TF-IDF vectorization, and a Logistic Regression model, the project achieves accurate results on a public dataset.
 
 🗂️ Project StructureFiles:spam_detection.ipynb: The Jupyter Notebook containing the full implementation of the project.
@@ -46,4 +48,5 @@ Libraries: Scikit-learn, Pandas, Numpy
 
 🌟 ConnectFor questions or feedback, feel free to reach out at:
 Email: bolagammythri@gmail.com
+
 GitHub: bolagam-mythri # Spam-Detection
